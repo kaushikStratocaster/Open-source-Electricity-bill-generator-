@@ -7,6 +7,7 @@
 	body
 	{
 		background-color: #0D0D0D;
+		background-image: url(ast.jpg);
 	}
 
 		.container
@@ -78,7 +79,7 @@
 	</style>
 </head>
 <body>
-	<h1>Welcome to <a href="https://fontmeme.com/fonts/bebas-neue-font/"><img src="https://fontmeme.com/permalink/200410/a39e7a33b529c10794004036d57f862b.png" alt="bebas-neue-font" border="0"></a></h1>
+	<h1>Welcome to <a href="electricity.php"><img src="https://fontmeme.com/permalink/200410/a39e7a33b529c10794004036d57f862b.png" alt="bebas-neue-font" border="0"></a></h1>
 	<h4>The website for printing electricity bill</h4>
 	<div class="box">
 			<div class="b1">
@@ -100,7 +101,7 @@
     <label for="exampleInputEmail1">Unit</label>
     <input type="text" class="form-control" id="exampleInputEmail1" name="unit" aria-describedby="emailHelp" placeholder="Enter Your Unit">
   </div>
-  <button type="submit" class="btn btn-primary" name="submit" value="submit">Submit</button>
+  <button type="submit" class="btn btn-primary" name="submit" value="submit" style="width: 100%;" hover="red;">Submit</button>
 </form>
 
 <div>
